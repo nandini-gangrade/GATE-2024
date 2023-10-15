@@ -1,11 +1,9 @@
 # GATE-2024
-
 <table>
   <thead>
     <tr>
       <th>Section</th>
       <th>No. of Q's</th>
-      <th>Marks</th>
       <th>Total Marks</th>
     </tr>
   </thead>
@@ -13,31 +11,27 @@
     <tr>
       <td>General Aptitude</td>
       <td>10</td>
-      <td>(1x5)(2x5)</td>
       <td>15</td>
     </tr>
     <tr>
       <td>Computer Science</td>
       <td>45</td>
-      <td>(25x1)(30x2)</td>
       <td>72</td>
     </tr>
     <tr>
       <td>Eng. Mathametics</td>
       <td>10</td>
-      <td>(30x2</td>
       <td>13</td>
     </tr>
     <tr>
       <td><b>Total</b></td>
       <td>65</td>
-      <td></td>
       <td>100</td>
     </tr>
   </tbody>
 </table>
 
-
+# Resources
 <table>
   <thead>
     <tr>
