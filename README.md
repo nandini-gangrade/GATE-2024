@@ -71,5 +71,54 @@
       <td>22</td>
       <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
     </tr>
+    <tr>
+      <td>5</td>
+      <td>Discrete Mathematics</td>
+      <td>2</td>
+      <td>22</td>
+      <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>COA</td>
+      <td>2</td>
+      <td>22</td>
+      <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>COA</td>
+      <td>2</td>
+      <td>22</td>
+      <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>COA</td>
+      <td>2</td>
+      <td>22</td>
+      <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>COA</td>
+      <td>2</td>
+      <td>22</td>
+      <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>COA</td>
+      <td>2</td>
+      <td>22</td>
+      <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>COA</td>
+      <td>2</td>
+      <td>22</td>
+      <td><a href="https://drive.google.com/drive/folders/1TczwPxWoiywI_VC-TbxHsVejz4nmOIoz?usp=drive_link">Videos & Notes</a></td>
+    </tr>
   </tbody>
 </table>
